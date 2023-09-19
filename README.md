@@ -1,5 +1,5 @@
 # grid-3
-
+Hosted link-> https://tanishka-khamesara.github.io/grid-3/grid.html
 
 
 ![Screenshot (98)](https://github.com/Tanishka-khamesara/grid-3/assets/127411985/1a34c073-b30b-4a6b-8e65-a6e82db7c30b)
